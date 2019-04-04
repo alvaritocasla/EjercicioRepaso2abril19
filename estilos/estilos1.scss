@@ -1,0 +1,12 @@
+.contendor{
+    display: grid;
+    width: 80vw;
+    min-height: 100vh;
+    border: 1px solid blue;
+
+    header{
+        width: 100%;
+        min-height: 15%;
+        border: 1px solid yellow;
+    }
+}
