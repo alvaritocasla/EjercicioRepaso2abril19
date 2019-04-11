@@ -20,6 +20,11 @@
         box-sizing: border-box;
     }
 
-   
+    main{
+        grid-column: 2 / 3;
+        border: 1px solid black;
+        box-sizing: border-box;
+    }
+
    
 }
