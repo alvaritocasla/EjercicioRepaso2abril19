@@ -32,5 +32,12 @@
         border: 1px greenyellow;
         box-sizing: border-box;
    }
+
+    header{
+        grid-column: 1 / 4;
+        min-height: 15%;
+        border: 1px solid blueviolet;
+        box-sizing: border-box;
+    }
    
 }
