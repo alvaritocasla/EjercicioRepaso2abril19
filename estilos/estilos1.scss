@@ -10,13 +10,16 @@
         grid-column: 1 / 4;
         min-height: 15%;
         border: 1px solid yellow;
+        box-sizing: border-box;
     }
 
     .aside1{
         grid-column: 1 / 2;
         min-height: 70%;
         border: 1px solid red;
+        box-sizing: border-box;
     }
 
+   
    
 }
