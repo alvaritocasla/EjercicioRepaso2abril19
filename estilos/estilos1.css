@@ -26,10 +26,10 @@
 .contenedor .aside2 {
   grid-column: 3/4;
   min-height: 70%;
-  border: 1px greenyellow;
+  border: 1px solid greenyellow;
   box-sizing: border-box;
 }
-.contenedor header {
+.contenedor footer {
   grid-column: 1/4;
   min-height: 15%;
   border: 1px solid blueviolet;
