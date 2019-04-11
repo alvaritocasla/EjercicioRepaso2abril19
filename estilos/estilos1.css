@@ -23,5 +23,11 @@
   border: 1px solid black;
   box-sizing: border-box;
 }
+.contenedor .aside2 {
+  grid-column: 3/4;
+  min-height: 70%;
+  border: 1px greenyellow;
+  box-sizing: border-box;
+}
 
 /*# sourceMappingURL=estilos1.css.map */

@@ -26,5 +26,11 @@
         box-sizing: border-box;
     }
 
+    .aside2{
+        grid-column: 3 / 4;
+        min-height: 70%;
+        border: 1px greenyellow;
+        box-sizing: border-box;
+   }
    
 }
