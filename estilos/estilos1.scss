@@ -4,11 +4,18 @@
     width: 80vw;
     min-height: 100vh;
     border: 1px solid blue;
+    margin: 0 auto;
 
     header{
         grid-column: 1 / 4;
         min-height: 15%;
         border: 1px solid yellow;
+    }
+
+    .aside1{
+        grid-column: 1 / 2;
+        min-height: 70%;
+        border: 1px solid red;
     }
 
    
